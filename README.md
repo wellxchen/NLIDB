@@ -6,7 +6,7 @@
 
 ### How it works.
 1. Parse the input and map nodes to SQL components and database attributes.
-![nodes_mapping_example](https://github.com/Natural-Language-Interface-to-SQL-database/report/final/figures/nodes_mapping_example.png)
+![nodes_mapping_example](https://github.com/Natural-Language-Interface-to-SQL-database/tree/master/report/final/figures/nodes_mapping_example.png)
 ![gui_nodes_mapping](https://github.com/DukeNLIDB/NLIDB/blob/master/report/final/figures/gui_nodes_mapping.png)
 
 2. Adjust the structure of the parse tree to make it syntactically valid.
